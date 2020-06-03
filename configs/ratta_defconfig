@@ -1,0 +1,25 @@
+CONFIG_ARM=y
+CONFIG_ARCH_MX6=y
+CONFIG_TARGET_MX6SL_RATTA_SN100=y
+CONFIG_LOCALVERSION="-ratta-sn078"
+CONFIG_SYS_EXTRA_OPTIONS="IMX_CONFIG=board/freescale/mx6slevk/imximage.cfg,MX6SL,SPLASH_SCREEN"
+# CONFIG_CMD_BDI is not set
+# CONFIG_CMD_CONSOLE is not set
+# CONFIG_CMD_ELF is not set
+# CONFIG_CMD_GO is not set
+# CONFIG_CMD_IMI is not set
+# CONFIG_CMD_IMLS is not set
+# CONFIG_CMD_XIMG is not set
+# CONFIG_CMD_EXPORTENV is not set
+# CONFIG_CMD_IMPORTENV is not set
+# CONFIG_CMD_MEMORY is not set
+# CONFIG_CMD_CRC32 is not set
+# CONFIG_CMD_DM is not set
+# CONFIG_CMD_LOADS is not set
+# CONFIG_CMD_FLASH is not set
+# CONFIG_CMD_FPGA is not set
+# CONFIG_CMD_ITEST is not set
+# CONFIG_CMD_SETEXPR is not set
+# CONFIG_CMD_NFS is not set
+# CONFIG_CMD_MISC is not set
+# CONFIG_DISK is not set

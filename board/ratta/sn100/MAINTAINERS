@@ -1,0 +1,7 @@
+RATTA_SN100 BOARD
+M:	ratta <ratta@ratta.com>
+S:	Maintained
+F:	board/ratta/sn100/
+F:	include/configs/ratta_sn100.h
+F:	configs/ratta_defconfig
+

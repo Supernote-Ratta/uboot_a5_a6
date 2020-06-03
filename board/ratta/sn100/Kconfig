@@ -1,0 +1,12 @@
+if TARGET_MX6SL_RATTA_SN100
+
+config SYS_BOARD
+	default "sn100"
+
+config SYS_VENDOR
+	default "ratta"
+
+config SYS_CONFIG_NAME
+	default "ratta_sn100"
+
+endif
